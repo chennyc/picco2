@@ -1,9 +1,0 @@
-bits:64
-modulus:9223372036854775907
-peers:3
-threshold:1
-inputs:1
-outputs:1
-I:1,array,int,1,524288,32
-I:1,A,int,1,1,32
-O:1,result,int,1,1,32
